@@ -1,1 +1,3 @@
 Making a new file on our Demo Repository
+Making changes on Github
+Now want to see it locally
